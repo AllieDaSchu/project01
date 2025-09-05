@@ -1,0 +1,14 @@
+.navLinks {
+    padding: 20px 100px;
+}
+
+a {
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+nav {
+    background-color: #333;
+}
