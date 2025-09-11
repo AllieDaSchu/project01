@@ -1,0 +1,18 @@
+.filter-container {
+    max-width: 1050px;
+    margin: auto;
+}
+
+.select-filter {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.drop-down {
+    margin: 0 10px;
+}
+
+.search-bar {
+    margin: 0 10px;
+}

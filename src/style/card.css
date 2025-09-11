@@ -1,11 +1,18 @@
 .card {
     max-width: 250px;
-    height: 300px;
+    min-height: 325px;
+    height: 100%;
     border-radius: 5%;
     box-shadow: 0 0 3px #000;
     padding: 5px 10px;
+    margin: 0 25px;
 }
 
-.card-content {
+.card {
     text-align: center;
+}
+
+.column {
+    display: flex;
+    justify-content: center;
 }
